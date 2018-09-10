@@ -1,0 +1,7 @@
+<h2>Projects</h2>
+<div class="projects">
+    <% data.projects.each do |project| %>
+        <h4 id="<%= project.id %>"><%= project.name %></h4>
+        <p><%= project.description %></p>
+    <% end %>
+</div>

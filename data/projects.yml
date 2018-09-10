@@ -1,0 +1,7 @@
+- id: fb
+  name: FizzBuzz
+  description: Kids game
+
+- id: ab
+  name: Address book
+  description: week 2 project
